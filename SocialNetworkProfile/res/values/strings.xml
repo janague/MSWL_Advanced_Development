@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Social Network Profile</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="socialNetworkProfile">Social Network Profile</string>
+    <string name="name">Gon Tanaka</string>
+    <string name="description">Gon (ゴン?) is a tiny fictional dinosaur and the title character of a Japanese manga series created by Masashi Tanaka. </string>
+	<string name="statusBar">Esto es un ejemplo de texto largo encapsulado en una línea de texto</string>
+    <string name="showProfile">Ver perfil</string>
+    <string name="getInfo">Cargar Info</string>
+	<string name="update">Actualizar</string>
+	<string name="whereIAm">Localizame!</string>
+	
+    <!-- colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="brown">#EBC2AF</color>
+    <color name="cyan">#00ffff</color>
+    <color name="grey">#C0C0C0</color>
+    <color name="customGreen">#425500</color>
+    
+
+</resources>
