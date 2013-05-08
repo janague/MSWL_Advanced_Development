@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdvanceLists</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="banner">Restaurants</string>
+	
+    <string name="restaurant1">Il Forno Italian</string>
+    <string name="restaurant1_description">Named one of the Top 10 authentic Italian restaurants in Britain by Antonio Carluccio in The Times Knowledge magazine, this independent restaurant offers a slice of Italy in the heart of Liverpool city centre.</string>
+   
+	<string name="restaurant2">Sapporo Teppanyaki Japanese</string>
+    <string name="restaurant2_description">If you are looking for a restaurant with a difference, then look no further than the Japanese Teppanyaki restaurant inside Liverpool s Chinatown.</string>
+    
+    <string name="restaurant3">Fahrenheit Grill British</string>
+    <string name="restaurant3_description">Brasserie located inside the Genting Club Queen Square in the heart of the city centre on Whitechapel.</string>
+    
+    <string name="publicity">Don`t miss out on Great Restaurant offers</string>
+</resources>
