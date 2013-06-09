@@ -1,10 +1,8 @@
-{
-    "user": "janague",
-    "tickets": [
+{"results": [
         {
             "title": "Il Forno Italian",
             "description": "Named one of the Top 10 authentic Italian restaurants in Britain by Antonio Carluccio in The Times Knowledge magazine, this independent restaurant offers a slice of Italy in the heart of Liverpool city centre.",
-            "image": "1",
+            "image": 1,
             "position": 
             	{
             		"latitude": 53.400757,
@@ -14,7 +12,7 @@
         {
             "title": "Sapporo Teppanyaki Japanese",
             "description": "Named one of the Top 10 authentic Italian restaurants in Britain by Antonio Carluccio in The Times Knowledge magazine, this independent restaurant offers a slice of Italy in the heart of Liverpool city centre.",
-            "image": "2",
+            "image": 2,
             "position": 
             	{
             		"latitude": 53.400600,
@@ -24,12 +22,12 @@
          {
             "title": "Fahrenheit Grill British",
             "description": "Brasserie located inside the Genting Club Queen Square in the heart of the city centre on Whitechapel.",
-            "image": "1",
+            "image": 1,
             "position": 
             	{
             		"latitude": 5.3407400,
             		"longitude": -2.985000
             	}
-        },
+        }
     ]
 }
