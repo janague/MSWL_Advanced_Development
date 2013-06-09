@@ -11,7 +11,7 @@
             	}
         },
         {
-        	"id": "20662",
+        	"id": "20661",
             "title": "Install Libre office",
             "description": "Desinstall MS Office and install Libre Office.",
             "type": "software",
@@ -33,7 +33,7 @@
             	}
         },
         {
-        	"id": "20852",
+        	"id": "20853",
             "title": "Install RAM",
             "description": "Install new RAM module in computer DFD3423.",
             "type": "workstation",
@@ -44,7 +44,7 @@
             	}
         },
         {
-        	"id": "21662",
+        	"id": "21666",
             "title": "Unknown problem",
             "description": "Visit the office to know the problem properly.",
             "type": "unknown",
@@ -55,13 +55,13 @@
             	}
         },
          {
-         	"id": "20772",
+         	"id": "20742",
             "title": "Server halt",
             "description": "Server with a problem of hardware.",
             "type": "server",
             "position": 
             	{
-            		"latitude": 5.3507400,
+            		"latitude": 53.507400,
             		"longitude": -2.985000
             	}
         }
