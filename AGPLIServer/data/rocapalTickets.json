@@ -1,0 +1,69 @@
+{"results": [
+        {
+        	"id": "20652",
+            "title": "Windows Blue Screen",
+            "description": "A Blue Screen of Death, also called a STOP Error, will appear when an issue is so serious that Windows must stop completely.",
+            "type": "software",
+            "position": 
+            	{
+            		"latitude": 53.400757,
+            		"longitude": -2.978393
+            	}
+        },
+        {
+        	"id": "20661",
+            "title": "Install Libre office",
+            "description": "Desinstall MS Office and install Libre Office.",
+            "type": "software",
+            "position": 
+            	{
+            		"latitude": 53.400600,
+            		"longitude": -2.978200
+            	}
+        },
+         {
+         	"id": "20762",
+            "title": "Printer update firmware",
+            "description": "The latest release of printer drivers have been updated to support installation and functionality in Case.",
+            "type": "printer",
+            "position": 
+            	{
+            		"latitude": 53.407400,
+            		"longitude": -2.985000
+            	}
+        },
+        {
+        	"id": "20853",
+            "title": "Install RAM",
+            "description": "Install new RAM module in computer DFD3423.",
+            "type": "workstation",
+            "position": 
+            	{
+            		"latitude": 53.400757,
+            		"longitude": -2.978393
+            	}
+        },
+        {
+        	"id": "21666",
+            "title": "Unknown problem",
+            "description": "Visit the office to know the problem properly.",
+            "type": "unknown",
+            "position": 
+            	{
+            		"latitude": 53.420600,
+            		"longitude": -2.978200
+            	}
+        },
+         {
+         	"id": "20742",
+            "title": "Server halt",
+            "description": "Server with a problem of hardware.",
+            "type": "server",
+            "position": 
+            	{
+            		"latitude": 53.507400,
+            		"longitude": -2.985000
+            	}
+        }
+    ]
+}

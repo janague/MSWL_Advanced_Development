@@ -1,0 +1,14 @@
+{"results": [
+         {
+         	"id": "20742",
+            "title": "Server halt",
+            "description": "Server with a problem of hardware.",
+            "type": "server",
+            "position": 
+            	{
+            		"latitude": 53.507400,
+            		"longitude": -2.985000
+            	}
+        }
+    ]
+}
