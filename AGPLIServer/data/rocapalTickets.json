@@ -1,68 +1,57 @@
 {"results": [
         {
-        	"id": "20652",
-            "title": "Windows Blue Screen",
-            "description": "A Blue Screen of Death, also called a STOP Error, will appear when an issue is so serious that Windows must stop completely.",
-            "type": "software",
+        	"id": "20001",
+            "title": "Windows Server IIS",
+            "description": "Desinstall Windows Server and install FreeBSD with nginx",
+            "type": "server",
             "position": 
             	{
-            		"latitude": 53.400757,
-            		"longitude": -2.978393
+            		"latitude": 40.336325,
+            		"longitude": -3.874397
             	}
         },
         {
-        	"id": "20661",
-            "title": "Install Libre office",
-            "description": "Desinstall MS Office and install Libre Office.",
-            "type": "software",
+        	"id": "22324",
+            "title": "Install server in rack",
+            "description": "The client has moved servers in its office, need help to config linux server",
+            "type": "server",
             "position": 
             	{
-            		"latitude": 53.400600,
-            		"longitude": -2.978200
+            		"latitude": 40.330044,
+            		"longitude": -3.855686
             	}
         },
          {
-         	"id": "20762",
+         	"id": "20345",
             "title": "Printer update firmware",
             "description": "The latest release of printer drivers have been updated to support installation and functionality in Case.",
+            "type": "server",
+            "position": 
+            	{
+            		"latitude": 40.319967,
+            		"longitude": -3.845901
+            	}
+        },
+        {
+        	"id": "19876",
+            "title": "Install New Printer",
+            "description": "Install new printer, carry out old printer to headquater.",
             "type": "printer",
             "position": 
             	{
-            		"latitude": 53.407400,
-            		"longitude": -2.985000
+            		"latitude": 40.322585,
+            		"longitude": -3.866158
             	}
         },
         {
-        	"id": "20853",
-            "title": "Install RAM",
-            "description": "Install new RAM module in computer DFD3423.",
-            "type": "workstation",
-            "position": 
-            	{
-            		"latitude": 53.400757,
-            		"longitude": -2.978393
-            	}
-        },
-        {
-        	"id": "21666",
+        	"id": "21234",
             "title": "Unknown problem",
             "description": "Visit the office to know the problem properly.",
             "type": "unknown",
             "position": 
             	{
-            		"latitude": 53.420600,
-            		"longitude": -2.978200
-            	}
-        },
-         {
-         	"id": "20742",
-            "title": "Server halt",
-            "description": "Server with a problem of hardware.",
-            "type": "server",
-            "position": 
-            	{
-            		"latitude": 53.507400,
-            		"longitude": -2.985000
+            		"latitude": 40.313815 ,
+            		"longitude": -3.864441
             	}
         }
     ]

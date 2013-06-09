@@ -6,8 +6,8 @@
             "type": "software",
             "position": 
             	{
-            		"latitude": 53.400757,
-            		"longitude": -2.978393
+            		"latitude": 40.281848,
+            		"longitude": -3.819122
             	}
         },
         {
@@ -17,8 +17,8 @@
             "type": "software",
             "position": 
             	{
-            		"latitude": 53.400600,
-            		"longitude": -2.978200
+            		"latitude": 40.277133,
+            		"longitude": -3.792171
             	}
         },
          {
@@ -28,8 +28,8 @@
             "type": "printer",
             "position": 
             	{
-            		"latitude": 53.407400,
-            		"longitude": -2.985000
+            		"latitude": 40.290229,
+            		"longitude": -3.785133
             	}
         },
         {
@@ -39,8 +39,8 @@
             "type": "workstation",
             "position": 
             	{
-            		"latitude": 53.400757,
-            		"longitude": -2.978393
+            		"latitude": 40.278574,
+            		"longitude": -3.765736
             	}
         },
         {
@@ -50,8 +50,8 @@
             "type": "unknown",
             "position": 
             	{
-            		"latitude": 53.420600,
-            		"longitude": -2.978200
+            		"latitude": 40.288265,
+            		"longitude": -3.744450
             	}
         },
          {
@@ -61,8 +61,8 @@
             "type": "server",
             "position": 
             	{
-            		"latitude": 53.507400,
-            		"longitude": -2.985000
+            		"latitude": 40.261678,
+            		"longitude": -3.763332
             	}
         }
     ]
