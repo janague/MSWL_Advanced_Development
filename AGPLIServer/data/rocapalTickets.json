@@ -1,9 +1,9 @@
 {"results": [
         {
         	"id": "20001",
-            "title": "Windows Server IIS",
-            "description": "Desinstall Windows Server and install FreeBSD with nginx",
-            "type": "server",
+            "title": "Windows 8 - Install",
+            "description": "Desinstall Windows 8  and install FreeBSD with nginx",
+            "type": "workstation",
             "position": 
             	{
             		"latitude": 40.336325,
