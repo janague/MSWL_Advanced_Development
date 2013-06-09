@@ -1,8 +1,9 @@
 {"results": [
         {
-            "title": "Il Forno Italian",
-            "description": "Named one of the Top 10 authentic Italian restaurants in Britain by Antonio Carluccio in The Times Knowledge magazine, this independent restaurant offers a slice of Italy in the heart of Liverpool city centre.",
-            "image": 1,
+        	"id": "20652",
+            "title": "Windows Blue Screen",
+            "description": "A Blue Screen of Death, also called a STOP Error, will appear when an issue is so serious that Windows must stop completely.",
+            "type": "software",
             "position": 
             	{
             		"latitude": 53.400757,
@@ -10,9 +11,10 @@
             	}
         },
         {
-            "title": "Sapporo Teppanyaki Japanese",
-            "description": "Named one of the Top 10 authentic Italian restaurants in Britain by Antonio Carluccio in The Times Knowledge magazine, this independent restaurant offers a slice of Italy in the heart of Liverpool city centre.",
-            "image": 2,
+        	"id": "20662",
+            "title": "Install Libre office",
+            "description": "Desinstall MS Office and install Libre Office.",
+            "type": "software",
             "position": 
             	{
             		"latitude": 53.400600,
@@ -20,12 +22,46 @@
             	}
         },
          {
-            "title": "Fahrenheit Grill British",
-            "description": "Brasserie located inside the Genting Club Queen Square in the heart of the city centre on Whitechapel.",
-            "image": 1,
+         	"id": "20762",
+            "title": "Printer update firmware",
+            "description": "The latest release of printer drivers have been updated to support installation and functionality in Case.",
+            "type": "printer",
             "position": 
             	{
             		"latitude": 5.3407400,
+            		"longitude": -2.985000
+            	}
+        }
+        {
+        	"id": "20852",
+            "title": "Install RAM",
+            "description": "Install new RAM module in computer DFD3423.",
+            "type": "workstation",
+            "position": 
+            	{
+            		"latitude": 53.400757,
+            		"longitude": -2.978393
+            	}
+        },
+        {
+        	"id": "21662",
+            "title": "Unknown problem",
+            "description": "Visit the office to know the problem properly.",
+            "type": "unknown",
+            "position": 
+            	{
+            		"latitude": 53.420600,
+            		"longitude": -2.978200
+            	}
+        },
+         {
+         	"id": "20772",
+            "title": "Server halt",
+            "description": "Server with a problem of hardware.",
+            "type": "server",
+            "position": 
+            	{
+            		"latitude": 5.3507400,
             		"longitude": -2.985000
             	}
         }
