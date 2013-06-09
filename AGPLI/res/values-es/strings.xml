@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AGPLI</string>
+    <string name="action_settings">Configuración</string>
+    
+    <string name="map_key">0Tp7WsIDiyqoDmSF9LMprvDzte-hj_A6r-qxbow</string>
+            
+    <string name="banner_tickets">Incidentes</string>
+            
+    <string name="user_name">Usuario </string>
+    <string name="password">Contraseña </string>
+    <string name="cancel">Cancelar</string>
+    <string name="login">Entrar</string>
+    <string name="status">Barra de estado</string>
+    <string name="user">Usuario </string>
+    
+     <string name="visit">Visitas</string>
+     <string name="url">URL</string>
+    
+    <string name="license">Copyright &#169; Jose Alberto Navas Guerrero\nCódigo fuente licenciado bajo GPLv3 (http://www.gnu.org/licenses/). Free Software!</string>
+
+</resources>
